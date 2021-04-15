@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2021-04-15T03:34:38.577Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="sjMjG82PHSQ-tDAKIQsw" version="14.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-15T03:43:17.016Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="QE_0J6-BtsImqZQ9DHF1" version="14.6.0" type="github">
   <diagram name="Page-1" id="9361dd3d-8414-5efd-6122-117bd74ce7a7">
     <mxGraphModel dx="1182" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1.5" pageWidth="826" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="69" value="" style="fillColor=#DEE8FF;strokeColor=none" parent="1" vertex="1">
+        <mxCell id="69" value="" style="" parent="1" vertex="1">
           <mxGeometry x="40" y="10" width="1570" height="800" as="geometry" />
         </mxCell>
         <mxCell id="20" value="" style="fillColor=#CCD5EB" parent="1" vertex="1">
@@ -19,19 +19,19 @@
         <mxCell id="2" value="" style="fillColor=#CC4125;strokeColor=#660000" parent="1" vertex="1">
           <mxGeometry x="200" y="150" width="10" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="3" value="validate()" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;labelPosition=left;align=right" parent="1" edge="1">
+        <mxCell id="3" value="&lt;&lt;message&gt;&gt;&#xa;" style="edgeStyle=none;verticalLabelPosition=top;verticalAlign=bottom;labelPosition=left;align=right" parent="1" edge="1">
           <mxGeometry x="110" y="49.5" width="100" height="100" as="geometry">
             <mxPoint x="110" y="149.5" as="sourcePoint" />
             <mxPoint x="200" y="149.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4" value=":dialog" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
+        <mxCell id="4" value=": diálogo 1" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
           <mxGeometry x="152.5" y="60" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="6" value="" style="fillColor=#CC4125;strokeColor=#660000" parent="1" vertex="1">
           <mxGeometry x="342.5" y="180" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="7" value="&lt;&lt;javascript&gt;&gt;&#xa;:Comments" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
+        <mxCell id="7" value="&lt;&lt;javascript&gt;&gt; &#xa;: Comentarios envio" style="shadow=1;fillColor=#A2C4C9;strokeColor=none" parent="1" vertex="1">
           <mxGeometry x="295" y="60" width="105" height="50" as="geometry" />
         </mxCell>
         <mxCell id="8" value="" style="edgeStyle=none;endArrow=none;dashed=1" parent="1" source="7" target="6" edge="1">
